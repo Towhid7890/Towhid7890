@@ -1,4 +1,4 @@
-![Blue and Red Modern Marketing Manager LinkedIn Article Cover Image](https://user-images.githubusercontent.com/44175849/204558463-f798fee0-0d00-4f34-97be-f9c5507c2c28.png)
+(https://user-images.githubusercontent.com/44175849/204558463-f798fee0-0d00-4f34-97be-f9c5507c2c28.png)
 <h1 align="center">Hi 👋, I'm Thohidul Islam</h1>
 <h3 align="center">Hi I'm Thohidul Islam, I'm a MERN stack Frontend Developer and also a learner.</h3>
 
