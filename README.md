@@ -1,4 +1,4 @@
-![Screenshot]([screenshot.png](https://drive.google.com/file/d/1x4FBvyMALMyAUA2l5dpj3ZBk5AH1DIkH/view?usp=share_link))
+![Screenshot]([https://drive.google.com/file/d/1x4FBvyMALMyAUA2l5dpj3ZBk5AH1DIkH/view?usp=share_link]
 <h1 align="center">Hi 👋, I'm Thohidul Islam</h1>
 <h3 align="center">Hi I'm Thohidul Islam, I'm a MERN stack Frontend Developer and also a learner.</h3>
 
