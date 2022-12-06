@@ -6,13 +6,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=towhid7890" alt="towhid7890" /></a> </p>
 
-- 🔭 I’m currently working on **radiation corporation**
 
-- 🌱 I’m currently learning **Node Js, Express Js**
+- 🌱 I’m currently learning **Next Js** **Redux**
 
 - 👨‍💻 All of my projects are available at [https://towhid7890.github.io/Final-portfolio/](https://towhid7890.github.io/Final-portfolio/)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **thohidcse7890@gmail.com**
 
